@@ -5,17 +5,17 @@
 #### 目前分类目录
 #### [Two Pointers](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers)
 [011.Container-With-Most-Water](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/011.Container-With-Most-Water)	(M+)  
-[015.3Sum](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/015.3Sum)  (M)  去重，二分
+[015.3Sum](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/015.3Sum)  (M)  去重，二分   
 [016.3Sum-Closet](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/016.3Sum-Closest) (M)      
 [018.4Sum](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/018.4Sum) (M)           
 [259.3Sum-Smaller](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/259.3Sum-Smaller) (M+)       
 [030.Substring-with-Concatenation-of-All-Words](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/030.Substring-with-Concatenation-of-All-Words) (H)     
-[075.Sort-Colors](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/075.Sort-Colors) (M+)    三指针
-[026.Remove Duplicates from Sorted Array](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/026.Remove-Duplicates-from-Sorted-Array) (H-)  两个指针同起点，交换数组值
+[075.Sort-Colors](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/075.Sort-Colors) (M+)    三指针   
+[026.Remove Duplicates from Sorted Array](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/026.Remove-Duplicates-from-Sorted-Array) (H-)  两个指针同起点，交换数组值   
 [080.Remove Duplicates from Sorted Array II](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/080.Remove-Duplicates-from-Sorted-Array-II) (H)    
-[209.Minimum-Size-Subarray-Sum](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/209.Minimum-Size-Subarray-Sum) (M)    情景
+[209.Minimum-Size-Subarray-Sum](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/209.Minimum-Size-Subarray-Sum) (M)    情景   
 [088.Merge Sorted Array](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/088.Merge-Sorted-Array) (M)  
-[283.Move-Zeroes](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/283.Move-Zeroes) (M)      两个指针同起点，交换数组值
+[283.Move-Zeroes](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/283.Move-Zeroes) (M)      两个指针同起点，交换数组值   
 [141.Linked-List-Cycle](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/141.Linked-List-Cycle) (E+)      
 [142.Linked-List-Cycle-II](https://github.com/wisdompeak/LeetCode/tree/master/Linked_List/142.Linked-List-Cycle-II) (M+)    
 [360.Sort-Transformed-Array](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/360.Sort-Transformed-Array) (M)    
