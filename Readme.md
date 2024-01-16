@@ -941,6 +941,7 @@
 [2505.Bitwise-OR-of-All-Subsequence-Sums](https://github.com/wisdompeak/LeetCode/tree/master/Bit_Manipulation/2505.Bitwise-OR-of-All-Subsequence-Sums) (H)     
 [2680.Maximum-OR](https://github.com/wisdompeak/LeetCode/tree/master/Bit_Manipulation/2680.Maximum-OR) (M+)    
 [2802.Find-The-K-th-Lucky-Number](https://github.com/wisdompeak/LeetCode/tree/master/Bit_Manipulation/2802.Find-The-K-th-Lucky-Number) (M+)      
+[2992.Number-of-Self-Divisible-Permutations](https://github.com/wisdompeak/LeetCode/tree/master/Bit_Manipulation/2992.Number-of-Self-Divisible-Permutations) (M+)      
 * ``XOR``   
 [136.Single-Number](https://github.com/wisdompeak/LeetCode/tree/master/Bit_Manipulation/136.Single-Number) (M)   
 [268.Missing-Number](https://github.com/wisdompeak/LeetCode/tree/master/Greedy/268.Missing-Number) (H-)  
@@ -1016,7 +1017,8 @@
 1397.Find All Good Strings (TBD)  
 [1764.Form-Array-by-Concatenating-Subarrays-of-Another-Array](https://github.com/wisdompeak/LeetCode/tree/master/String/1764.Form-Array-by-Concatenating-Subarrays-of-Another-Array) (H)  
 [2301.Match-Substring-After-Replacement](https://github.com/wisdompeak/LeetCode/tree/master/String/2301.Match-Substring-After-Replacement) (H-)      
-[2851.String-Transformation](https://github.com/wisdompeak/LeetCode/tree/master/Dynamic_Programming/2851.String-Transformation) (H+)     
+[2851.String-Transformation](https://github.com/wisdompeak/LeetCode/tree/master/Dynamic_Programming/2851.String-Transformation) (H+)      
+[3008.Find-Beautiful-Indices-in-the-Given-Array-II](https://github.com/wisdompeak/LeetCode/tree/master/String/3008.Find-Beautiful-Indices-in-the-Given-Array-II) (H-)      
 * ``Manacher``   
 [005.Longest-Palindromic-Substring](https://github.com/wisdompeak/LeetCode/tree/master/String/005.Longest-Palindromic-Substring) (H)  
 [214.Shortest-Palindrome](https://github.com/wisdompeak/LeetCode/blob/master/String/214.Shortest-Palindrome) (H)  
@@ -1090,6 +1092,7 @@
 [1274.Number-of-Ships-in-a-Rectangle](https://github.com/wisdompeak/LeetCode/tree/master/Recursion/1274.Number-of-Ships-in-a-Rectangle) (M)   
 [1553.Minimum-Number-of-Days-to-Eat-N-Oranges](https://github.com/wisdompeak/LeetCode/tree/master/Recursion/1553.Minimum-Number-of-Days-to-Eat-N-Oranges) (H)  
 [1611.Minimum-One-Bit-Operations-to-Make-Integers-Zero](https://github.com/wisdompeak/LeetCode/tree/master/Recursion/1611.Minimum-One-Bit-Operations-to-Make-Integers-Zero) (H)  
+[2998.Minimum-Number-of-Operations-to-Make-X-and-Y-Equal](https://github.com/wisdompeak/LeetCode/tree/master/Recursion/2998.Minimum-Number-of-Operations-to-Make-X-and-Y-Equal) (M+)      
 * ``Evaluate Expressions``    
 [241.Different-Ways-to-Add-Parentheses](https://github.com/wisdompeak/LeetCode/tree/master/Recursion/241.Different-Ways-to-Add-Parentheses) (M+)    
 [2019.The-Score-of-Students-Solving-Math-Expression](https://github.com/wisdompeak/LeetCode/tree/master/Recursion/2019.The-Score-of-Students-Solving-Math-Expression) (H-)    
@@ -1111,6 +1114,7 @@
 [2719.Count-of-Integers](https://github.com/wisdompeak/LeetCode/tree/master/Recursion/2719.Count-of-Integers) (H)      
 [2801.Count-Stepping-Numbers-in-Range](https://github.com/wisdompeak/LeetCode/tree/master/Recursion/2801.Count-Stepping-Numbers-in-Range) (H)      
 [2827.Number-of-Beautiful-Integers-in-the-Range](https://github.com/wisdompeak/LeetCode/tree/master/Recursion/2827.Number-of-Beautiful-Integers-in-the-Range) (H)      
+[2999.Count-the-Number-of-Powerful-Integers](https://github.com/wisdompeak/LeetCode/tree/master/Recursion/2999.Count-the-Number-of-Powerful-Integers) (H-)      
 
 #### [Graph](https://github.com/wisdompeak/LeetCode/tree/master/Graph/)
 [332.Reconstruct-Itinerary](https://github.com/wisdompeak/LeetCode/tree/master/DFS/332.Reconstruct-Itinerary) (H)   
@@ -1407,6 +1411,7 @@
 [2054.Two-Best-Non-Overlapping-Events](https://github.com/wisdompeak/LeetCode/tree/master/Greedy/2054.Two-Best-Non-Overlapping-Events) (H-)     
 [2580.Count-Ways-to-Group-Overlapping-Ranges](https://github.com/wisdompeak/LeetCode/tree/master/Greedy/2580.Count-Ways-to-Group-Overlapping-Ranges) (M)    
 [2589.Minimum-Time-to-Complete-All-Tasks](https://github.com/wisdompeak/LeetCode/tree/master/Greedy/2589.Minimum-Time-to-Complete-All-Tasks) (H)      
+[2983.Palindrome-Rearrangement-Queries](https://github.com/wisdompeak/LeetCode/tree/master/Greedy/2983.Palindrome-Rearrangement-Queries) (H+)      
 * ``Constructive Problems``   
 [324.Wiggle-Sort-II](https://github.com/wisdompeak/LeetCode/tree/master/Others/324.Wiggle-Sort-II) (H)    
 [667.Beautiful-Arrangement-II](https://github.com/wisdompeak/LeetCode/tree/master/Greedy/667.Beautiful-Arrangement-II) (M)  
@@ -1565,7 +1570,8 @@
 [973.K-Closest-Points-to-Origin](https://github.com/wisdompeak/LeetCode/tree/master/Others/973.K-Closest-Points-to-Origin) (M)      
 [324.Wiggle-Sort-II](https://github.com/wisdompeak/LeetCode/tree/master/Others/324.Wiggle-Sort-II) (H)    
 * ``Digit counting``   
-[233.Number-of-Digit-One](https://github.com/wisdompeak/LeetCode/tree/master/Math/233.Number-of-Digit-One) (H-)   
+[233.Number-of-Digit-One](https://github.com/wisdompeak/LeetCode/tree/master/Math/233.Number-of-Digit-One) (H-)      
+[3007.Maximum-Number-That-Sum-of-the-Prices-Is-Less-Than-or-Equal-to-K](https://github.com/wisdompeak/LeetCode/tree/master/Others/3007.Maximum-Number-That-Sum-of-the-Prices-Is-Less-Than-or-Equal-to-K) (H)      
 [1067.Digit-Count-in-Range](https://github.com/wisdompeak/LeetCode/tree/master/Others/1067.Digit-Count-in-Range) (H)   
 [357.Count-Numbers-with-Unique-Digits](https://github.com/wisdompeak/LeetCode/tree/master/Others/357.Count-Numbers-with-Unique-Digits) (M)     
 [2417.Closest-Fair-Integer](https://github.com/wisdompeak/LeetCode/tree/master/Others/2417.Closest-Fair-Integer) (H-)      
