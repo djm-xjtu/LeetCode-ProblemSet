@@ -16,12 +16,12 @@
 [209.Minimum-Size-Subarray-Sum](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/209.Minimum-Size-Subarray-Sum) (M)    情景   
 [088.Merge Sorted Array](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/088.Merge-Sorted-Array) (M)  
 [283.Move-Zeroes](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/283.Move-Zeroes) (M)      两个指针同起点，交换数组值   
-[141.Linked-List-Cycle](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/141.Linked-List-Cycle) (E+)      
+[141.Linked-List-Cycle](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/141.Linked-List-Cycle) (E+)      【链表】数学   
 [142.Linked-List-Cycle-II](https://github.com/wisdompeak/LeetCode/tree/master/Linked_List/142.Linked-List-Cycle-II) (M+)    
 [360.Sort-Transformed-Array](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/360.Sort-Transformed-Array) (M)    
 [713.Subarray-Product-Less-Than-K](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/713.Subarray-Product-Less-Than-K) (M+)   
-[923.3Sum-With-Multiplicity](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/923.3Sum-With-Multiplicity) (H-)  
-[1234.Replace-the-Substring-for-Balanced-String](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/1234.Replace-the-Substring-for-Balanced-String) (H-)   
+[923.3Sum-With-Multiplicity](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/923.3Sum-With-Multiplicity) (H-)  【算数量】三数之和扩展   
+[1234.Replace-the-Substring-for-Balanced-String](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/1234.Replace-the-Substring-for-Balanced-String) (H-)   【情景】   
 [1498.Number-of-Subsequences-That-Satisfy-the-Given-Sum-Condition](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/1498.Number-of-Subsequences-That-Satisfy-the-Given-Sum-Condition) (H-)    
 [1574.Shortest-Subarray-to-be-Removed-to-Make-Array-Sorted](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/1574.Shortest-Subarray-to-be-Removed-to-Make-Array-Sorted) (H-)  
 [1580.Put-Boxes-Into-the-Warehouse-II](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/1580.Put-Boxes-Into-the-Warehouse-II) (H-)  
