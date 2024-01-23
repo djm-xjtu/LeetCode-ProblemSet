@@ -33,7 +33,7 @@
 * ``Sliding window``  
 [532.K-diff-Pairs-in-an-Array](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/532.K-diff-Pairs-in-an-Array) (H-)   【和2354类似，这题强调unique以及不需要转化题意】   
 [611.Valid-Triangle-Number](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/611.Valid-Triangle-Number)	(M+)   【a+b > c，数组取三个数，要考虑r和l重合的情况】   
-[930.Binary-Subarrays-With-Sum](https://github.com/wisdompeak/LeetCode/tree/master/Hash/930.Binary-Subarrays-With-Sum) (M+)   
+[930.Binary-Subarrays-With-Sum](https://github.com/wisdompeak/LeetCode/tree/master/Hash/930.Binary-Subarrays-With-Sum) (M+)   【本题及以下三题都是简单的区间满足条件的问题，涉及区间和就用prefix+hashmap】   
 [1004.Max-Consecutive-Ones-III](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/1004.Max-Consecutive-Ones-III) (M)   
 [1052.Grumpy-Bookstore-Owner](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/1052.Grumpy-Bookstore-Owner) (M)    
 [1358.Number-of-Substrings-Containing-All-Three-Characters](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/1358.Number-of-Substrings-Containing-All-Three-Characters) (M)      
