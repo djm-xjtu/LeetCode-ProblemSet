@@ -19,7 +19,7 @@
 [141.Linked-List-Cycle](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/141.Linked-List-Cycle) (E+)      【链表】数学   
 [142.Linked-List-Cycle-II](https://github.com/wisdompeak/LeetCode/tree/master/Linked_List/142.Linked-List-Cycle-II) (M+)    
 [360.Sort-Transformed-Array](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/360.Sort-Transformed-Array) (M)    
-[713.Subarray-Product-Less-Than-K](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/713.Subarray-Product-Less-Than-K) (M+)   【a+b<target】
+[713.Subarray-Product-Less-Than-K](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/713.Subarray-Product-Less-Than-K) (M+)   【a+b<target】   
 [923.3Sum-With-Multiplicity](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/923.3Sum-With-Multiplicity) (H-)  【算数量】三数之和扩展   
 [1234.Replace-the-Substring-for-Balanced-String](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/1234.Replace-the-Substring-for-Balanced-String) (H-)   【题意直接转化】   
 [1498.Number-of-Subsequences-That-Satisfy-the-Given-Sum-Condition](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/1498.Number-of-Subsequences-That-Satisfy-the-Given-Sum-Condition) (H-)    【Min + Max <= target】   
@@ -37,12 +37,12 @@
 [1004.Max-Consecutive-Ones-III](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/1004.Max-Consecutive-Ones-III) (M)   
 [1052.Grumpy-Bookstore-Owner](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/1052.Grumpy-Bookstore-Owner) (M)    
 [1358.Number-of-Substrings-Containing-All-Three-Characters](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/1358.Number-of-Substrings-Containing-All-Three-Characters) (M)      
-[1838.Frequency-of-the-Most-Frequent-Element](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/1838.Frequency-of-the-Most-Frequent-Element) (H-)  【和上面的4题思路类似，需要转化题意为：排序后找出最长的子数组，它的所有数的和+k >= 最大数的和*数组长度】
+[1838.Frequency-of-the-Most-Frequent-Element](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/1838.Frequency-of-the-Most-Frequent-Element) (H-)  【和上面的4题思路类似，需要转化题意为：排序后找出最长的子数组，它的所有数的和+k >= 最大数的和*数组长度】   
 [395.Longest-Substring-with-At-Least-K-Repeating-Characters](https://github.com/wisdompeak/LeetCode/tree/master/Recursion/395.Longest-Substring-with-At-Least-K-Repeating-Characters) (H)    
 [1763.Longest-Nice-Substring](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/1763.Longest-Nice-Substring) (H)      
-[2009.Minimum-Number-of-Operations-to-Make-Array-Continuous](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/2009.Minimum-Number-of-Operations-to-Make-Array-Continuous) (M+)      
-[2024.Maximize-the-Confusion-of-an-Exam](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/2024.Maximize-the-Confusion-of-an-Exam) (M)     
-[424.Longest-Repeating-Character-Replacement](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/424.Longest-Repeating-Character-Replacement) (H-)        
+[2009.Minimum-Number-of-Operations-to-Make-Array-Continuous](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/2009.Minimum-Number-of-Operations-to-Make-Array-Continuous) (M+)      【类似1234】   
+[2024.Maximize-the-Confusion-of-an-Exam](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/2024.Maximize-the-Confusion-of-an-Exam) (M)     【类似1004，减掉k，统计数的题统一用<缩>】   
+[424.Longest-Repeating-Character-Replacement](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/424.Longest-Repeating-Character-Replacement) (H-)        【2024，1004的大一统】   
 [2106.Maximum-Fruits-Harvested-After-at-Most-K-Steps](https://github.com/wisdompeak/LeetCode/blob/master/Two_Pointers/2106.Maximum-Fruits-Harvested-After-at-Most-K-Steps) (H)     
 [2401.Longest-Nice-Subarray](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/2401.Longest-Nice-Subarray) (H-)    
 [2411.Smallest-Subarrays-With-Maximum-Bitwise-OR](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/2411.Smallest-Subarrays-With-Maximum-Bitwise-OR) (H-)    
