@@ -62,14 +62,14 @@
 [992.Subarrays-with-K-Different-Integers](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/992.Subarrays-with-K-Different-Integers) (H-)    【最小窗口，计数，类似上面的题，要求exact equal转换成 at least k - at least k-1】 【结合上三题总结规律，最多：r-l+1 且每次最多只加一次，最少n-r，每次修改l都加】   
 [2461.Maximum-Sum-of-Distinct-Subarrays-With-Length-K](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/2461.Maximum-Sum-of-Distinct-Subarrays-With-Length-K) (M)    【两个条件】   
 [2537.Count-the-Number-of-Good-Subarrays](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/2537.Count-the-Number-of-Good-Subarrays) (M+)    【计数】    
-* ``Two pointers for two sequences``    
-[986.Interval-List-Intersections](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/986.Interval-List-Intersections) (M)  
-[1229.Meeting-Scheduler](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/1229.Meeting-Scheduler) (M+)  
-[1537.Get-the-Maximum-Score](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/1537.Get-the-Maximum-Score) (H-)  
-[1577.Number-of-Ways-Where-Square-of-Number-Is-Equal-to-Product-of-Two-Numbers](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/1577.Number-of-Ways-Where-Square-of-Number-Is-Equal-to-Product-of-Two-Numbers) (H-)  
-[1775.Equal-Sum-Arrays-With-Minimum-Number-of-Operations](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/1775.Equal-Sum-Arrays-With-Minimum-Number-of-Operations) (M+)  
+* ``Two pointers for two sequences``    【有一个问题是两个段之间的边缘交点，结论是统一用> or <】   
+[986.Interval-List-Intersections](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/986.Interval-List-Intersections) (M)  【经典，统计区间重合，需要用while，不用for】   
+[1229.Meeting-Scheduler](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/1229.Meeting-Scheduler) (M+)  【类似上一题】   
+[1537.Get-the-Maximum-Score](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/1537.Get-the-Maximum-Score) (H-)  【贪心，思路需记住】   
+[1577.Number-of-Ways-Where-Square-of-Number-Is-Equal-to-Product-of-Two-Numbers](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/1577.Number-of-Ways-Where-Square-of-Number-Is-Equal-to-Product-of-Two-Numbers) (H-)  【类三数之和，我不太擅长做一个区间内两个数的题】   
+[1775.Equal-Sum-Arrays-With-Minimum-Number-of-Operations](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/1775.Equal-Sum-Arrays-With-Minimum-Number-of-Operations) (M+) 【本题及以下1题都能直接想出来】  
 [1868.Product-of-Two-Run-Length-Encoded-Arrays](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/1868.Product-of-Two-Run-Length-Encoded-Arrays) (M+)  
-[2098.Subsequence-of-Size-K-With-the-Largest-Even-Sum](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/2098.Subsequence-of-Size-K-With-the-Largest-Even-Sum) (M+)      
+[2098.Subsequence-of-Size-K-With-the-Largest-Even-Sum](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/2098.Subsequence-of-Size-K-With-the-Largest-Even-Sum) (M+)  【很难按思路写下去的一题，多练】    
 
 #### [Binary Search](https://github.com/wisdompeak/LeetCode/tree/master/Binary_Search)
 [004.Median-of-Two-Sorted-Arrays](https://github.com/wisdompeak/LeetCode/tree/master/Priority_Queue/004.Median-of-Two-Sorted-Arrays) (H)   
