@@ -1250,10 +1250,10 @@
 [659.Split-Array-into-Consecutive-Subsequences](https://github.com/wisdompeak/LeetCode/tree/master/Greedy/659.Split-Array-into-Consecutive-Subsequences) (H)  【很难按思路写下去的一题，多练】    
 [386.Lexicographical-Numbers](https://github.com/wisdompeak/LeetCode/tree/master/Greedy/386.Lexicographical-Numbers) (H)   【专门的算法】   
 [624.Maximum-Distance-in-Arrays](https://leetcode.cn/problems/maximum-distance-in-arrays/description/) (M)    【不能在同一组数内必大小的写法】   
-[665.Non-decreasing-Array](https://github.com/wisdompeak/LeetCode/tree/master/Greedy/665.Non-decreasing-Array) (H)   
-670.Maximum-Swap (M+)   
-649.Dota2-Senate (H)    
-[683.K-Empty-Slots](https://github.com/wisdompeak/LeetCode/tree/master/Greedy/683.K-Empty-Slots)　(H)   
+[665.Non-decreasing-Array](https://github.com/wisdompeak/LeetCode/tree/master/Greedy/665.Non-decreasing-Array) (H)   【最多更改1次的 - 思路简单】
+670.Maximum-Swap (M+)   【同上】
+649.Dota2-Senate (H)    【模拟题意，不难】
+[683.K-Empty-Slots](https://github.com/wisdompeak/LeetCode/tree/master/Greedy/683.K-Empty-Slots)　(H)   【很难按思路写下去的一题，多练】
 [517.Super-Washing-Machines](https://github.com/wisdompeak/LeetCode/tree/master/Greedy/517.Super-Washing-Machines) (H)    
 870.Advantage-Shuffle (M)   
 [781.Rabbits-in-Forest](https://github.com/wisdompeak/LeetCode/tree/master/Greedy/781.Rabbits-in-Forest) (M+)  
@@ -1316,9 +1316,9 @@
 [2871.Split-Array-Into-Maximum-Number-of-Subarrays](https://github.com/wisdompeak/LeetCode/tree/master/Greedy/2871.Split-Array-Into-Maximum-Number-of-Subarrays) (M+)      
 [2868.The-Wording-Game](https://github.com/wisdompeak/LeetCode/tree/master/Greedy/2868.The-Wording-Game) (M)      
 [2897.Apply-Operations-on-Array-to-Maximize-Sum-of-Squares](https://github.com/wisdompeak/LeetCode/tree/master/Greedy/2897.Apply-Operations-on-Array-to-Maximize-Sum-of-Squares) (M+)      
-* ``Boyer-Moore Majority Voting``
+* ``Boyer-Moore Majority Voting`` 【找出数组中出现次数 > n/4的数】   
 [229.Majority-Element-II](https://github.com/wisdompeak/LeetCode/tree/master/Greedy/229.Majority-Element-II) (H)      
-[2856.Minimum-Array-Length-After-Pair-Removals](https://github.com/wisdompeak/LeetCode/tree/master/Greedy/2856.Minimum-Array-Length-After-Pair-Removals) (M)      
+[2856.Minimum-Array-Length-After-Pair-Removals](https://github.com/wisdompeak/LeetCode/tree/master/Greedy/2856.Minimum-Array-Length-After-Pair-Removals) (M)      【这个算法的倒推，如果有一个数出现不少于n/2次则剩下这些数，不然就一定能两两抵消】   
 * ``Lexicographical Sequence``  
 [031.Next-Permutation](https://github.com/wisdompeak/LeetCode/tree/master/Greedy/031.Next-Permutation) (M)   
 [556.Next-Greater-Element-III](https://github.com/wisdompeak/LeetCode/tree/master/Greedy/556.Next-Greater-Element-III) (M)   
