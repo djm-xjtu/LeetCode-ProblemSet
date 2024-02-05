@@ -456,7 +456,7 @@
 [1438.Longest-Continuous-Subarray-With-Absolute-Diff-Less-Than-or-Equal-to-Limit](https://github.com/wisdompeak/LeetCode/tree/master/Deque/1438.Longest-Continuous-Subarray-With-Absolute-Diff-Less-Than-or-Equal-to-Limit) (H)   
 [1499.Max-Value-of-Equation](https://github.com/wisdompeak/LeetCode/tree/master/Deque/1499.Max-Value-of-Equation) (M+)    
 [1562.Find-Latest-Group-of-Size-M](https://github.com/wisdompeak/LeetCode/tree/master/Deque/1562.Find-Latest-Group-of-Size-M) (H)  
-[1696.Jump-Game-VI](https://github.com/wisdompeak/LeetCode/tree/master/Deque/1696.Jump-Game-VI) (M+)  
+[1696.Jump-Game-VI](https://github.com/wisdompeak/LeetCode/tree/master/Deque/1696.Jump-Game-VI) (M+)  【deque应用：维护长度<=k的最大值】   
 [1776.Car-Fleet-II](https://github.com/wisdompeak/LeetCode/tree/master/Deque/1776.Car-Fleet-II) (H)  
 [2398.Maximum-Number-of-Robots-Within-Budget](https://github.com/wisdompeak/LeetCode/tree/master/Deque/2398.Maximum-Number-of-Robots-Within-Budget) (H-)    
 [2762.Continuous-Subarrays](https://github.com/wisdompeak/LeetCode/tree/master/Deque/2762.Continuous-Subarrays) (M+)      
@@ -1244,12 +1244,12 @@
 [2654.Minimum-Number-of-Operations-to-Make-All-Array-Elements-Equal-to-1](https://github.com/wisdompeak/LeetCode/tree/master/Math/2654.Minimum-Number-of-Operations-to-Make-All-Array-Elements-Equal-to-1) (M)    
 
 #### [Greedy](https://github.com/wisdompeak/LeetCode/tree/master/Greedy)
-[055.Jump-Game](https://github.com/wisdompeak/LeetCode/tree/master/Greedy/055.Jump-Game) (E+)  
+[055.Jump-Game](https://github.com/wisdompeak/LeetCode/tree/master/Greedy/055.Jump-Game) (E+)   【jump game 1-3 经典贪心】
 [045.Jump-Game-II](https://github.com/wisdompeak/LeetCode/tree/master/Greedy/045.Jump-Game-II) (M)    
 [134.Gas-Station](https://github.com/wisdompeak/LeetCode/tree/master/Greedy/134.Gas-Station) (H)    
-[659.Split-Array-into-Consecutive-Subsequences](https://github.com/wisdompeak/LeetCode/tree/master/Greedy/659.Split-Array-into-Consecutive-Subsequences) (H)  
-[386.Lexicographical-Numbers](https://github.com/wisdompeak/LeetCode/tree/master/Greedy/386.Lexicographical-Numbers) (H)   
-624.Maximum-Distance-in-Arrays (M)    
+[659.Split-Array-into-Consecutive-Subsequences](https://github.com/wisdompeak/LeetCode/tree/master/Greedy/659.Split-Array-into-Consecutive-Subsequences) (H)  【很难按思路写下去的一题，多练】    
+[386.Lexicographical-Numbers](https://github.com/wisdompeak/LeetCode/tree/master/Greedy/386.Lexicographical-Numbers) (H)   【专门的算法】   
+[624.Maximum-Distance-in-Arrays](https://leetcode.cn/problems/maximum-distance-in-arrays/description/) (M)    【不能在同一组数内必大小的写法】   
 [665.Non-decreasing-Array](https://github.com/wisdompeak/LeetCode/tree/master/Greedy/665.Non-decreasing-Array) (H)   
 670.Maximum-Swap (M+)   
 649.Dota2-Senate (H)    
@@ -1338,9 +1338,9 @@
 [1964.Find-the-Longest-Valid-Obstacle-Course-at-Each-Position](https://github.com/wisdompeak/LeetCode/tree/master/Greedy/1964.Find-the-Longest-Valid-Obstacle-Course-at-Each-Position) (M+)     
 [2111.Minimum-Operations-to-Make-the-Array-K-Increasing](https://github.com/wisdompeak/LeetCode/tree/master/Greedy/2111.Minimum-Operations-to-Make-the-Array-K-Increasing) (M+)     
 * ``Two-pass distribution``   
-[135.Candy](https://github.com/wisdompeak/LeetCode/tree/master/Greedy/135.Candy) (M+)    
+[135.Candy](https://github.com/wisdompeak/LeetCode/tree/master/Greedy/135.Candy) (M+)    【经典题，两遍循环】   
 [1840.Maximum-Building-Height](https://github.com/wisdompeak/LeetCode/tree/master/Greedy/1840.Maximum-Building-Height) (H)  
-[1846.Maximum-Element-After-Decreasing-and-Rearranging](https://github.com/wisdompeak/LeetCode/tree/master/Greedy/1846.Maximum-Element-After-Decreasing-and-Rearranging) (M+)  
+[1846.Maximum-Element-After-Decreasing-and-Rearranging](https://github.com/wisdompeak/LeetCode/tree/master/Greedy/1846.Maximum-Element-After-Decreasing-and-Rearranging) (M+)  【一遍循环】   
 * ``Three-pass``   
 [042.Trapping-Rain-Water](https://github.com/wisdompeak/LeetCode/tree/master/Others/042.Trapping-Rain-Water) (H-)  
 [334.Increasing-Triplet-Subsequence](https://github.com/wisdompeak/LeetCode/tree/master/Greedy/334.Increasing-Triplet-Subsequence) (H-)    
