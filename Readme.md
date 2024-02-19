@@ -139,13 +139,13 @@
 [2702.Minimum-Operations-to-Make-Numbers-Non-positive](https://github.com/wisdompeak/LeetCode/tree/master/Binary_Search/2702.Minimum-Operations-to-Make-Numbers-Non-positive) (H-)      
 [2861.Maximum-Number-of-Alloys](https://github.com/wisdompeak/LeetCode/tree/master/Binary_Search/2861.Maximum-Number-of-Alloys) (M+)      
     * ``Find K-th Element``       
-[215.Kth-Largest-Element-in-an-Array](https://github.com/wisdompeak/LeetCode/tree/master/Binary_Search/215.Kth-Largest-Element-in-an-Array) (M)   
-[287.Find-the-Duplicate-Number](https://github.com/wisdompeak/LeetCode/tree/master/Binary_Search/287.Find-the-Duplicate-Number) (H-)   
-[378.Kth-Smallest-Element-in-a-Sorted-Matrix](https://github.com/wisdompeak/LeetCode/tree/master/Binary_Search/378.Kth-Smallest-Element-in-a-Sorted-Matrix) (H-)   
-[373.Find-K-Pairs-with-Smallest-Sums](https://github.com/wisdompeak/LeetCode/tree/master/Binary_Search/373.Find-K-Pairs-with-Smallest-Sums) (H)   
-[668.Kth-Smallest-Number-in-Multiplication-Table](https://github.com/wisdompeak/LeetCode/tree/master/Binary_Search/668.Kth-Smallest-Number-in-Multiplication-Table) (H-)    
-[719.Find-Kth-Smallest-Pair-Distance](https://github.com/wisdompeak/LeetCode/tree/master/Binary_Search/719.Find-K-th-Smallest-Pair-Distance) (H-)   
-[1918.Kth-Smallest-Subarray-Sum](https://github.com/wisdompeak/LeetCode/tree/master/Binary_Search/1918.Kth-Smallest-Subarray-Sum) (M+)  
+[215.Kth-Largest-Element-in-an-Array](https://github.com/wisdompeak/LeetCode/tree/master/Binary_Search/215.Kth-Largest-Element-in-an-Array) (M)   【标准思路】   
+[287.Find-the-Duplicate-Number](https://github.com/wisdompeak/LeetCode/tree/master/Binary_Search/287.Find-the-Duplicate-Number) (H-)   【这个直接用原地hash】   
+[378.Kth-Smallest-Element-in-a-Sorted-Matrix](https://github.com/wisdompeak/LeetCode/tree/master/Binary_Search/378.Kth-Smallest-Element-in-a-Sorted-Matrix) (H-)   【二维找第k个的二分】   
+[373.Find-K-Pairs-with-Smallest-Sums](https://github.com/wisdompeak/LeetCode/tree/master/Binary_Search/373.Find-K-Pairs-with-Smallest-Sums) (H)   【类似二维】   
+[668.Kth-Smallest-Number-in-Multiplication-Table](https://github.com/wisdompeak/LeetCode/tree/master/Binary_Search/668.Kth-Smallest-Number-in-Multiplication-Table) (H-)    【类似二维】   
+[719.Find-Kth-Smallest-Pair-Distance](https://github.com/wisdompeak/LeetCode/tree/master/Binary_Search/719.Find-K-th-Smallest-Pair-Distance) (H-)   【二分+双指针】   
+[1918.Kth-Smallest-Subarray-Sum](https://github.com/wisdompeak/LeetCode/tree/master/Binary_Search/1918.Kth-Smallest-Subarray-Sum) (M+)  【思路完全同上，二分+双指针】      
 [2040.Kth-Smallest-Product-of-Two-Sorted-Arrays](https://github.com/wisdompeak/LeetCode/tree/master/Binary_Search/2040.Kth-Smallest-Product-of-Two-Sorted-Arrays) (H-)      
 [1439.Find-the-Kth-Smallest-Sum-of-a-Matrix-With-Sorted-Rows](https://github.com/wisdompeak/LeetCode/tree/master/Priority_Queue/1439.Find-the-Kth-Smallest-Sum-of-a-Matrix-With-Sorted-Rows) (H)  
 [786.Kth-Smallest-Prime-Fraction](https://github.com/wisdompeak/LeetCode/tree/master/Binary_Search/786.K-th%20Smallest-Prime-Fraction) (H-)   
