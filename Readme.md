@@ -155,8 +155,8 @@
 [2387.Median-of-a-Row-Wise-Sorted-Matrix](https://github.com/wisdompeak/LeetCode/tree/master/Binary_Search/2387.Median-of-a-Row-Wise-Sorted-Matrix) (H-)    
 
 #### [Hash Map](https://github.com/wisdompeak/LeetCode/tree/master/Hash)
-[049.Group-Anagrams](https://github.com/wisdompeak/LeetCode/tree/master/Hash/049.Group-Anagrams) (M+)    
-[149.Max-Points-on-a-Line](https://github.com/wisdompeak/LeetCode/tree/master/Hash/149.Max-Points-on-a-Line) (H)     
+[049.Group-Anagrams](https://github.com/wisdompeak/LeetCode/tree/master/Hash/049.Group-Anagrams) (M+)    【排序+map】   
+[149.Max-Points-on-a-Line](https://github.com/wisdompeak/LeetCode/tree/master/Hash/149.Max-Points-on-a-Line) (H)     【斜率用化简分子和分母来表示，边界条件很多】   
 [166.Fraction-to-Recurring-Decimal](https://github.com/wisdompeak/LeetCode/tree/master/Hash/166.Fraction-to-Recurring-Decimal) (M)   
 [170.Two-Sum-III-Data-structure-design](https://github.com/wisdompeak/LeetCode/tree/master/Hash/170.Two-Sum-III-Data-structure-design) (M)   
 [392.Is-Subsequence](https://github.com/wisdompeak/LeetCode/tree/master/Hash/392.Is-Subsequence) (H-)   
